@@ -1,5 +1,4 @@
 # Desafio - Exploratory Data Analysis
-## Processo Seletivo - Data Analyst - Trybe
 
 #### Objetivo: o objetivo desse desafio é realizar uma EDA de um conjunto de dados. 
 
